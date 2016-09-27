@@ -1,7 +1,8 @@
 {
     "name": "bat-snippets",
-    "publisher": "zf-l",
+    "publisher": "bat-snippets",
     "description": "vscode Bat snippets",
+    "keywords": ["BAT", "Snippets"],
     "version": "0.1.0",
     "engines": { "vscode": "1.5.x" },
     "categories": ["Snippets"],
