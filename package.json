@@ -1,0 +1,18 @@
+{
+    "name": "bat-snippets",
+    "publisher": "zf-l",
+    "description": "vscode Bat snippets",
+    "version": "0.1.0",
+    "engines": { "vscode": "1.5.x" },
+    "categories": ["Snippets"],
+    "repository": "https://github.com/zf-l/vscode-bat-snippets",
+    "icon": "images/bat-snippets.png",
+    "contributes": {
+        "snippets": [
+            {
+                "language": "bat",
+                "path": "./snippets/bat.json"
+            }
+        ]
+    }
+}
