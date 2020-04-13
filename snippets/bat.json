@@ -173,5 +173,12 @@
 			"goto :EOF"
 		],
 		"description": "Define a function"
+	},
+	"var":{
+		"prefix": "var",
+		"body": [
+			"%${1:VAR-NAME}%$0"
+			],
+		"description": "Variable Reference."
 	}
 }
